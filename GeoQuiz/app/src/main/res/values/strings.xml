@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="question_text">Будешь плюшку?</string>
+    <string name="true_button">Да</string>
+    <string name="false_button">Нет</string>
+    <string name="yes_answer">Молодец, вот и славно</string>
+    <string name="no_answer">Ну и пошёл ты нахуй</string>
+    <string name="next_button">Следующий</string>
+    <string name="prev_button">Предыдущий</string>
+    <string name="question_oceans">Тихий океан больше Атлантического</string>
+    <string name="question_mideast">Суэтский канал соединяет мёртвое море с индийским океаном</string>
+    <string name="question_africa">Исток реки Нил находится в Египте</string>
+    <string name="question_america">Река Амазонка самая протяжённая в мире</string>
+    <string name="question_asia">Озеро Байкал - самый старый и глубокий пресноводный водоём в мире</string>
+    <string name="cheat_button">Чит</string>
+    <string name="warning_text">Ты уверен, что хочешь это сделать?</string>
+    <string name="show_answer_button">Показать ответ</string>
+    <string name="judment_toast">Читерство - неправильно</string>
+
+</resources>
